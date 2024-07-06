@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 400%;
+    font-size: 500%;
     color: DarkOrange;
 }
 
@@ -14,5 +14,5 @@ button {
 
 img {
     text-align: center;
-    width: 50%;
+    width: 100%;
 }
