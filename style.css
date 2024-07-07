@@ -1,22 +1,18 @@
 body {
     background-color: Sienna;
 }
-
 h1 {
     font-size: 500%;
     color: DarkOrange;
 }
-
 button {
     background-color: Sienna;
      border-width: 0;
 }
-
 img {
     text-align: center;
     width: 100%;
 }
-
 h2 {
     font-size: 400%;
     color: Tomato;
