@@ -12,5 +12,6 @@ function Upgrade() {
         s *= 2;
         p++;
         document.getElementById("up").innerHTML = "Цена: " + s + " => " + (s*2) + " -- За клик: " + p + " => " + (p+1);
+        document.getElementById("score").innerHTML = "" + score;
     }
 }
